@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Morse Compose</string>
+    <string name="dotButtonText">Dot</string>
+    <string name="dashButtonText">Dash</string>
+</resources>
